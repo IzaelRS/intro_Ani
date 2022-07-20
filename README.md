@@ -1,8 +1,6 @@
 # intro_Ani
 Protótipo de tela de cadastro 
-<div align="center">
-<h1 align="center">Protótipo de animações e navegação  "</h1>
-</div>
-<div align="center">
-  <src="./src/git/demo.mov" height ="600" width="350">
-</div>
+
+
+https://user-images.githubusercontent.com/87791471/179868573-d0bef971-d4c7-4b43-8641-e31d42b578ba.mov
+
